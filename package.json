@@ -1,0 +1,21 @@
+{
+  "name": "paystripe",
+  "version": "0.1.1",
+  "description": "Payment in Stripe Module for TaxiNode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://bitbucket.org/anilogic/paystripe.git"
+  },
+  "bugs": {
+    "url": "https://bitbucket.org/anilogic/paystripe/issues"
+  },
+  "author": "Kumar Anirudha <anirudhastark@yahoo.com> (http://anirudha.org/)",
+  "license": "ISC",
+  "dependencies": {
+    "stripe": "^3.7.0"
+  }
+}
