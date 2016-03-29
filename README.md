@@ -1,5 +1,4 @@
-PayStripe
-==========
+# PayStripe
 
 Private Node Module for Taxinode to pay via stripe
 
@@ -41,6 +40,10 @@ Transfer Money (account to account):
 ```
 payStripetransfer(data,success)
 ```
+
+# paystripe
+Easy Stripe Payment Gateway integration in Node.js
+
 
 
 ## Under Developement
