@@ -1,7 +1,5 @@
 # PayStripe
 
-[![API Doc](https://doclets.io/anistark/paystripe/master.svg)](https://doclets.io/anistark/paystripe/master)
-
 
 Private Node Module for Taxinode to pay via stripe
 
