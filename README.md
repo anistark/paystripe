@@ -2,6 +2,8 @@
 
 [![Version npm](https://img.shields.io/npm/v/paystripe.svg?style=flat-square)](https://www.npmjs.com/package/paystripe) [![npm Downloads](https://img.shields.io/npm/dm/paystripe.svg?style=flat-square)](https://www.npmjs.com/package/paystripe) [![Dependency Status](https://david-dm.org/anistark/paystripe.svg)](https://david-dm.org/anistark/paystripe) 
 
+[![NPM](https://nodei.co/npm/paystripe.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/paystripe/)
+
 [![NPM](https://nodei.co/npm-dl/paystripe.png)](https://nodei.co/npm/paystripe/)
 
 
