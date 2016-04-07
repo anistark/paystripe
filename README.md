@@ -1,5 +1,6 @@
 # PayStripe
 
+[![Version npm](https://img.shields.io/npm/v/forever.svg?style=flat-square)](https://www.npmjs.com/package/paystripe)[![npm Downloads]
 
 Private Node Module for Taxinode to pay via stripe
 
